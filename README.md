@@ -1,3 +1,7 @@
+
+# Miro do professor Paulo 
+# https://miro.com/app/board/o9J_lvLuXME=/
+
 # Começando um projeto NodeJS pelo GitPod.io
 
 1. Entre no site GitPod.io e faça o login (pode ser com GitLab, GitHub ou Bitbucket).
